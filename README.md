@@ -6,7 +6,7 @@
 Student Name      : Zaid Manan
 Registration No   : SE120252056
 Department        : Software Engineering
-Professor         : Amjad Mahmood
+Professor         : Dr.Amjad Mehmood
 
 Description:
 This system allows:
